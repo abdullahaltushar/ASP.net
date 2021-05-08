@@ -1,0 +1,16 @@
+/home/abdullah/variable/bin/Debug/net5.0/variable
+/home/abdullah/variable/bin/Debug/net5.0/variable.deps.json
+/home/abdullah/variable/bin/Debug/net5.0/variable.runtimeconfig.json
+/home/abdullah/variable/bin/Debug/net5.0/variable.runtimeconfig.dev.json
+/home/abdullah/variable/bin/Debug/net5.0/variable.dll
+/home/abdullah/variable/bin/Debug/net5.0/ref/variable.dll
+/home/abdullah/variable/bin/Debug/net5.0/variable.pdb
+/home/abdullah/variable/obj/Debug/net5.0/variable.csprojAssemblyReference.cache
+/home/abdullah/variable/obj/Debug/net5.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/variable/obj/Debug/net5.0/variable.AssemblyInfoInputs.cache
+/home/abdullah/variable/obj/Debug/net5.0/variable.AssemblyInfo.cs
+/home/abdullah/variable/obj/Debug/net5.0/variable.csproj.CoreCompileInputs.cache
+/home/abdullah/variable/obj/Debug/net5.0/variable.dll
+/home/abdullah/variable/obj/Debug/net5.0/ref/variable.dll
+/home/abdullah/variable/obj/Debug/net5.0/variable.pdb
+/home/abdullah/variable/obj/Debug/net5.0/variable.genruntimeconfig.cache

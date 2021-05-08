@@ -1,0 +1,16 @@
+/home/abdullah/hwapp/bin/Debug/net5.0/hwapp
+/home/abdullah/hwapp/bin/Debug/net5.0/hwapp.deps.json
+/home/abdullah/hwapp/bin/Debug/net5.0/hwapp.runtimeconfig.json
+/home/abdullah/hwapp/bin/Debug/net5.0/hwapp.runtimeconfig.dev.json
+/home/abdullah/hwapp/bin/Debug/net5.0/hwapp.dll
+/home/abdullah/hwapp/bin/Debug/net5.0/ref/hwapp.dll
+/home/abdullah/hwapp/bin/Debug/net5.0/hwapp.pdb
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.csprojAssemblyReference.cache
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.AssemblyInfoInputs.cache
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.AssemblyInfo.cs
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.csproj.CoreCompileInputs.cache
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.dll
+/home/abdullah/hwapp/obj/Debug/net5.0/ref/hwapp.dll
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.pdb
+/home/abdullah/hwapp/obj/Debug/net5.0/hwapp.genruntimeconfig.cache

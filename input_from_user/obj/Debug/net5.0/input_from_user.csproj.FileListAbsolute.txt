@@ -1,0 +1,16 @@
+/home/abdullah/input_from_user/bin/Debug/net5.0/input_from_user
+/home/abdullah/input_from_user/bin/Debug/net5.0/input_from_user.deps.json
+/home/abdullah/input_from_user/bin/Debug/net5.0/input_from_user.runtimeconfig.json
+/home/abdullah/input_from_user/bin/Debug/net5.0/input_from_user.runtimeconfig.dev.json
+/home/abdullah/input_from_user/bin/Debug/net5.0/input_from_user.dll
+/home/abdullah/input_from_user/bin/Debug/net5.0/ref/input_from_user.dll
+/home/abdullah/input_from_user/bin/Debug/net5.0/input_from_user.pdb
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.csprojAssemblyReference.cache
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.AssemblyInfoInputs.cache
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.AssemblyInfo.cs
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.csproj.CoreCompileInputs.cache
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.dll
+/home/abdullah/input_from_user/obj/Debug/net5.0/ref/input_from_user.dll
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.pdb
+/home/abdullah/input_from_user/obj/Debug/net5.0/input_from_user.genruntimeconfig.cache

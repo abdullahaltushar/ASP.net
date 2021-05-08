@@ -1,0 +1,16 @@
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.csprojAssemblyReference.cache
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.AssemblyInfoInputs.cache
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.AssemblyInfo.cs
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.csproj.CoreCompileInputs.cache
+/home/abdullah/Queue/bin/Debug/net5.0/Queue
+/home/abdullah/Queue/bin/Debug/net5.0/Queue.deps.json
+/home/abdullah/Queue/bin/Debug/net5.0/Queue.runtimeconfig.json
+/home/abdullah/Queue/bin/Debug/net5.0/Queue.runtimeconfig.dev.json
+/home/abdullah/Queue/bin/Debug/net5.0/Queue.dll
+/home/abdullah/Queue/bin/Debug/net5.0/ref/Queue.dll
+/home/abdullah/Queue/bin/Debug/net5.0/Queue.pdb
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.dll
+/home/abdullah/Queue/obj/Debug/net5.0/ref/Queue.dll
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.pdb
+/home/abdullah/Queue/obj/Debug/net5.0/Queue.genruntimeconfig.cache

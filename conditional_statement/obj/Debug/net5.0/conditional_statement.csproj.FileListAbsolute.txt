@@ -1,0 +1,16 @@
+/home/abdullah/conditional_statement/bin/Debug/net5.0/conditional_statement
+/home/abdullah/conditional_statement/bin/Debug/net5.0/conditional_statement.deps.json
+/home/abdullah/conditional_statement/bin/Debug/net5.0/conditional_statement.runtimeconfig.json
+/home/abdullah/conditional_statement/bin/Debug/net5.0/conditional_statement.runtimeconfig.dev.json
+/home/abdullah/conditional_statement/bin/Debug/net5.0/conditional_statement.dll
+/home/abdullah/conditional_statement/bin/Debug/net5.0/ref/conditional_statement.dll
+/home/abdullah/conditional_statement/bin/Debug/net5.0/conditional_statement.pdb
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.csprojAssemblyReference.cache
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.AssemblyInfoInputs.cache
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.AssemblyInfo.cs
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.csproj.CoreCompileInputs.cache
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.dll
+/home/abdullah/conditional_statement/obj/Debug/net5.0/ref/conditional_statement.dll
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.pdb
+/home/abdullah/conditional_statement/obj/Debug/net5.0/conditional_statement.genruntimeconfig.cache

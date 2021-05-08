@@ -1,0 +1,16 @@
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.csprojAssemblyReference.cache
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.AssemblyInfoInputs.cache
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.AssemblyInfo.cs
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.csproj.CoreCompileInputs.cache
+/home/abdullah/hashtable/bin/Debug/net5.0/hashtable
+/home/abdullah/hashtable/bin/Debug/net5.0/hashtable.deps.json
+/home/abdullah/hashtable/bin/Debug/net5.0/hashtable.runtimeconfig.json
+/home/abdullah/hashtable/bin/Debug/net5.0/hashtable.runtimeconfig.dev.json
+/home/abdullah/hashtable/bin/Debug/net5.0/hashtable.dll
+/home/abdullah/hashtable/bin/Debug/net5.0/ref/hashtable.dll
+/home/abdullah/hashtable/bin/Debug/net5.0/hashtable.pdb
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.dll
+/home/abdullah/hashtable/obj/Debug/net5.0/ref/hashtable.dll
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.pdb
+/home/abdullah/hashtable/obj/Debug/net5.0/hashtable.genruntimeconfig.cache

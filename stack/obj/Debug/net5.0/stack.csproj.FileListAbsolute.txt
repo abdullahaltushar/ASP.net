@@ -1,0 +1,16 @@
+/home/abdullah/stack/obj/Debug/net5.0/stack.csprojAssemblyReference.cache
+/home/abdullah/stack/obj/Debug/net5.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/stack/obj/Debug/net5.0/stack.AssemblyInfoInputs.cache
+/home/abdullah/stack/obj/Debug/net5.0/stack.AssemblyInfo.cs
+/home/abdullah/stack/obj/Debug/net5.0/stack.csproj.CoreCompileInputs.cache
+/home/abdullah/stack/bin/Debug/net5.0/stack
+/home/abdullah/stack/bin/Debug/net5.0/stack.deps.json
+/home/abdullah/stack/bin/Debug/net5.0/stack.runtimeconfig.json
+/home/abdullah/stack/bin/Debug/net5.0/stack.runtimeconfig.dev.json
+/home/abdullah/stack/bin/Debug/net5.0/stack.dll
+/home/abdullah/stack/bin/Debug/net5.0/ref/stack.dll
+/home/abdullah/stack/bin/Debug/net5.0/stack.pdb
+/home/abdullah/stack/obj/Debug/net5.0/stack.dll
+/home/abdullah/stack/obj/Debug/net5.0/ref/stack.dll
+/home/abdullah/stack/obj/Debug/net5.0/stack.pdb
+/home/abdullah/stack/obj/Debug/net5.0/stack.genruntimeconfig.cache

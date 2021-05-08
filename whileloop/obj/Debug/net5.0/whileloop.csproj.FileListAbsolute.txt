@@ -1,0 +1,16 @@
+/home/abdullah/whileloop/bin/Debug/net5.0/whileloop
+/home/abdullah/whileloop/bin/Debug/net5.0/whileloop.deps.json
+/home/abdullah/whileloop/bin/Debug/net5.0/whileloop.runtimeconfig.json
+/home/abdullah/whileloop/bin/Debug/net5.0/whileloop.runtimeconfig.dev.json
+/home/abdullah/whileloop/bin/Debug/net5.0/whileloop.dll
+/home/abdullah/whileloop/bin/Debug/net5.0/ref/whileloop.dll
+/home/abdullah/whileloop/bin/Debug/net5.0/whileloop.pdb
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.csprojAssemblyReference.cache
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.AssemblyInfoInputs.cache
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.AssemblyInfo.cs
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.csproj.CoreCompileInputs.cache
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.dll
+/home/abdullah/whileloop/obj/Debug/net5.0/ref/whileloop.dll
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.pdb
+/home/abdullah/whileloop/obj/Debug/net5.0/whileloop.genruntimeconfig.cache

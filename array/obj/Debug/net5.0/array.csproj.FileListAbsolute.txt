@@ -1,0 +1,16 @@
+/home/abdullah/array/bin/Debug/net5.0/array
+/home/abdullah/array/bin/Debug/net5.0/array.deps.json
+/home/abdullah/array/bin/Debug/net5.0/array.runtimeconfig.json
+/home/abdullah/array/bin/Debug/net5.0/array.runtimeconfig.dev.json
+/home/abdullah/array/bin/Debug/net5.0/array.dll
+/home/abdullah/array/bin/Debug/net5.0/ref/array.dll
+/home/abdullah/array/bin/Debug/net5.0/array.pdb
+/home/abdullah/array/obj/Debug/net5.0/array.csprojAssemblyReference.cache
+/home/abdullah/array/obj/Debug/net5.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/array/obj/Debug/net5.0/array.AssemblyInfoInputs.cache
+/home/abdullah/array/obj/Debug/net5.0/array.AssemblyInfo.cs
+/home/abdullah/array/obj/Debug/net5.0/array.csproj.CoreCompileInputs.cache
+/home/abdullah/array/obj/Debug/net5.0/array.dll
+/home/abdullah/array/obj/Debug/net5.0/ref/array.dll
+/home/abdullah/array/obj/Debug/net5.0/array.pdb
+/home/abdullah/array/obj/Debug/net5.0/array.genruntimeconfig.cache

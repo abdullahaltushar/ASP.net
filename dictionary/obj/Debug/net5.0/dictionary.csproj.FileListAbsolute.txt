@@ -1,0 +1,16 @@
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.csprojAssemblyReference.cache
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfoInputs.cache
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfo.cs
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.csproj.CoreCompileInputs.cache
+/home/abdullah/dictionary/bin/Debug/net5.0/dictionary
+/home/abdullah/dictionary/bin/Debug/net5.0/dictionary.deps.json
+/home/abdullah/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.json
+/home/abdullah/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.dev.json
+/home/abdullah/dictionary/bin/Debug/net5.0/dictionary.dll
+/home/abdullah/dictionary/bin/Debug/net5.0/ref/dictionary.dll
+/home/abdullah/dictionary/bin/Debug/net5.0/dictionary.pdb
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.dll
+/home/abdullah/dictionary/obj/Debug/net5.0/ref/dictionary.dll
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.pdb
+/home/abdullah/dictionary/obj/Debug/net5.0/dictionary.genruntimeconfig.cache

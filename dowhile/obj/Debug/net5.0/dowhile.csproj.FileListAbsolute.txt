@@ -1,0 +1,16 @@
+/home/abdullah/dowhile/bin/Debug/net5.0/dowhile
+/home/abdullah/dowhile/bin/Debug/net5.0/dowhile.deps.json
+/home/abdullah/dowhile/bin/Debug/net5.0/dowhile.runtimeconfig.json
+/home/abdullah/dowhile/bin/Debug/net5.0/dowhile.runtimeconfig.dev.json
+/home/abdullah/dowhile/bin/Debug/net5.0/dowhile.dll
+/home/abdullah/dowhile/bin/Debug/net5.0/ref/dowhile.dll
+/home/abdullah/dowhile/bin/Debug/net5.0/dowhile.pdb
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.csprojAssemblyReference.cache
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.AssemblyInfoInputs.cache
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.AssemblyInfo.cs
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.csproj.CoreCompileInputs.cache
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.dll
+/home/abdullah/dowhile/obj/Debug/net5.0/ref/dowhile.dll
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.pdb
+/home/abdullah/dowhile/obj/Debug/net5.0/dowhile.genruntimeconfig.cache

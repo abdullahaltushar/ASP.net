@@ -1,0 +1,16 @@
+/home/abdullah/forloop/bin/Debug/net5.0/forloop
+/home/abdullah/forloop/bin/Debug/net5.0/forloop.deps.json
+/home/abdullah/forloop/bin/Debug/net5.0/forloop.runtimeconfig.json
+/home/abdullah/forloop/bin/Debug/net5.0/forloop.runtimeconfig.dev.json
+/home/abdullah/forloop/bin/Debug/net5.0/forloop.dll
+/home/abdullah/forloop/bin/Debug/net5.0/ref/forloop.dll
+/home/abdullah/forloop/bin/Debug/net5.0/forloop.pdb
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.csprojAssemblyReference.cache
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.AssemblyInfoInputs.cache
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.AssemblyInfo.cs
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.csproj.CoreCompileInputs.cache
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.dll
+/home/abdullah/forloop/obj/Debug/net5.0/ref/forloop.dll
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.pdb
+/home/abdullah/forloop/obj/Debug/net5.0/forloop.genruntimeconfig.cache
